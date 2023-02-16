@@ -1,0 +1,13 @@
+class TestClass
+{
+  int rollno;
+  String name; 
+public static void main(String args[])
+{
+   TestClass obj=new TestClass();
+   System.out.println(obj.rollno);
+   System.out.println(obj.name);
+}
+}
+
+  
